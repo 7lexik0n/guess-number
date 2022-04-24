@@ -9,7 +9,7 @@
 Также можно скопировать ссылку (exp://exp.host/@7lexik0n/guess-number) на проект, приложение Expo Go должно определить её автоматически.
 > *Проект собирался и тестировался для android устройств, работа в ios среде не гарантируется!*
 ___
-![QR код](https://qr.expo.dev/expo-go?owner=7lexik0n&slug=guess-number&releaseChannel=default&host=exp.host "QR код")
+<img src="https://qr.expo.dev/expo-go?owner=7lexik0n&slug=guess-number&releaseChannel=default&host=exp.host" width="375" alt="QR код">
 
 ## Использованные технологии
 Проект раскрывает базовые возможности создания приложения с использованием React Native и Expo.
@@ -20,12 +20,14 @@ ___
 ## Экраны
 Главный экран
 ___
-![Главный экран](https://sun9-31.userapi.com/s/v1/if2/xi5vAlILWo2kQiaQAtXw0e8-VP4T_CXLQib1HmTEUHVbPOeYKpbyl3ChjJiOqATuGmYeYPZNYJoZw__xJH7_z5Ty.jpg?size=867x1600&quality=95&type=album "Главный экран")
+<img src="https://sun9-31.userapi.com/s/v1/if2/xi5vAlILWo2kQiaQAtXw0e8-VP4T_CXLQib1HmTEUHVbPOeYKpbyl3ChjJiOqATuGmYeYPZNYJoZw__xJH7_z5Ty.jpg?size=867x1600&quality=95&type=album" width="375" alt="Главный экран">
+
 ___
 Экран игры
 ___
-![Экран игры](https://sun9-47.userapi.com/s/v1/if2/Gw-KSW31b3LTPNFO7QHmKux8qMADx4XyymdJacwDIzAMnwcjVtNe4JX1rPWSuDCSLsryuJZN_ULtqMu7KaFgB2g5.jpg?size=864x1600&quality=95&type=album "Экран игры")
+<img src="https://sun9-47.userapi.com/s/v1/if2/Gw-KSW31b3LTPNFO7QHmKux8qMADx4XyymdJacwDIzAMnwcjVtNe4JX1rPWSuDCSLsryuJZN_ULtqMu7KaFgB2g5.jpg?size=864x1600&quality=95&type=album" width="375" alt="Экран игры">
+
 ___
 Экран результатов
 ___
-![Экран результатов](https://sun9-28.userapi.com/s/v1/if2/fdfR2nzp4blpGUIpZKFYEC7H1tTJJ8RaU2WkrJuE5m0aZmMG1cELAoVX4cx9wxWJ5ZwBIP5DeoweTFZnxbVO5MP6.jpg?size=858x1600&quality=95&type=album "Экран результатов")
+<img src="https://sun9-28.userapi.com/s/v1/if2/fdfR2nzp4blpGUIpZKFYEC7H1tTJJ8RaU2WkrJuE5m0aZmMG1cELAoVX4cx9wxWJ5ZwBIP5DeoweTFZnxbVO5MP6.jpg?size=858x1600&quality=95&type=album" width="375" alt="Экран результатов">
