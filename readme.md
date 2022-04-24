@@ -6,7 +6,7 @@
 
 ## Запуск
 Для запуска проекта необходимо бесплатное приложение Expo Go, которое можно установить из [Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=ru&gl=US) или [App Store](https://apps.apple.com/ru/app/expo-go/id982107779). После установки необходимо просканировать QR-код проекта (для android устройств из приложения Expo Go, а для ios устройств можно сразу воспользоваться основной камерой), приложение произведет процесс сброки в автоматическом режиме.
-Также можно скопировать [ссылку](exp://exp.host/@7lexik0n/guess-number?release-channel=default) на проект, приложение Expo Go должно определить её автоматически. 
+Также можно скопировать [ссылку](exp://exp.host/@7lexik0n/guess-number?release-channel=default) (https://github.com/7lexik0n/guess-number) на проект, приложение Expo Go должно определить её автоматически. 
 ___
 ![QR код](https://qr.expo.dev/expo-go?owner=7lexik0n&slug=guess-number&releaseChannel=default&host=exp.host "QR код")
 
